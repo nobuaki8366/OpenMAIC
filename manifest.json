@@ -1,0 +1,10 @@
+{
+  "slug": "openmaic",
+  "title": "OpenMAIC Hosted Classroom",
+  "description": "Hosted OpenMAIC wrapper for health checks, classroom generation job submission, and job status polling.",
+  "entry_point": "clawso/index.mjs",
+  "timeout_seconds": 25,
+  "allowed_hosts": [
+    "open.maic.chat"
+  ]
+}
